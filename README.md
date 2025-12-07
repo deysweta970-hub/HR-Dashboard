@@ -10,7 +10,7 @@ Active Employees: 481
 Attrition: 19Average Salary: $54,004
 Gender Ratio: 250 Male | 250 Female
 # Dashboard Insights
-1. )HR, IT, Marketing, and Operations show balanced payroll spend
+1. HR, IT, Marketing, and Operations show balanced payroll spend
 
 2. Age Group Distribution:
 Majority of employees fall between 29–36 years.
@@ -24,6 +24,8 @@ Compares average leave, used leave, and remaining leave for each role
 
 5. Performance Rating:
 Department-wise split of Excellent, Good, Average, and Poor performers
+# Outcome
+The dashboard provides a detailed and interactive view of HR performance indicators, helping organizations track employee well-being, department growth, attrition risks, and overall workforce efficiency.
 # Dashboard
 <img width="1157" height="678" alt="Hr dashboard" src="https://github.com/user-attachments/assets/f21d76aa-d47d-460f-ac55-bddb4e228b0f" />
 
